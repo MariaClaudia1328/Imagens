@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="CodInfo Logo" src="https://github.com/MariaClaudia1328/Imagens/blob/master/Logo_infotron.png" />
+    <img alt="CodInfo Logo" src="https://github.com/MariaClaudia1328/Imagens/blob/master/mary.png" />
     <br> CodInfo <br />
 </h1>
 
